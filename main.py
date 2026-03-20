@@ -3,7 +3,7 @@ Fait par Zhuo Han
 Groupe 407
 
 Projet TP5:
-Dessin d'un voiture Dodge Challenger
+Dessin: Dodge Challenger
 
 """
 
