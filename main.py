@@ -13,13 +13,13 @@ import arcade
 
 SCREEN_WIDTH = 1280
 SCREEN_HEIGHT = 900
-SCREEN_TITLE = "Full Screen Example"
+SCREEN_TITLE = "Challenger"
 
 
 class MyGame(arcade.Window):
     def __init__(self):
 
-        super().__init__(SCREEN_WIDTH, SCREEN_HEIGHT, "big screen")
+        super().__init__(SCREEN_WIDTH, SCREEN_HEIGHT, SCREEN_TITLE)
         self.background_color = arcade.color.WHITE
 
     def draw_car(self):
